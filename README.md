@@ -9,7 +9,7 @@ Este proyecto fue desarrollado en Java 17, utilizando Spring Boot para la creaci
 1. **Regitro e Inicio de Seccion de Usuarios usando Json Web Token (JWT)**
 2. **Actualizacion, Lista y eliminacion de Usuarios Usando Metodos Put, Get, Delete, respectivamente**
 3. **Creacion, Busqueda, Actualizacion, Listado y Eliminacion de:**
-4. - Cursos
+   - Cursos
    - Topicos
    - Respuestas
 **Usando los metodos Post, Get, Put, Delete**
